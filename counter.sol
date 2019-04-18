@@ -19,7 +19,7 @@ contract Counter{
     }
 
     //view--only for read
-    function getNum() view public returns (uint) {
+    function getNum() public view returns (uint) {
         return num;
     }
 }
