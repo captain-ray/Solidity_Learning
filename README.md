@@ -84,7 +84,7 @@ Then, the transaction will be logged
 
 ## 2 Follow Truffle toturial to build Ethereum Pet Shop (Solidity+Truffle+web3.js)
 
-> Truffle is a world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM)
+> [Truffle](https://truffleframework.com/docs/truffle/overview) is a world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM)
 
 [ Truffle toturial of building Ethereum Pet Shop](https://truffleframework.com/tutorials/pet-shop)
 
