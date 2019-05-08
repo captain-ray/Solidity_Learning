@@ -86,6 +86,8 @@ Then, the transaction will be logged
 
 [ Truffle toturial of building Ethereum Pet Shop](https://truffleframework.com/tutorials/pet-shop)
 
+![8](demo_images/8.png)
+
 #### 2.1 "Adoption" - smart contract
 
 ```js
